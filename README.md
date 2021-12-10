@@ -4,11 +4,13 @@
 
 # Various Links
 
-Public IP/URL to live server:
+Public IP/URL to live server: The two links for both the admin page and web application are respectively below
+
+Admin page link: http://20.108.163.98/final_project_webtech/adminpage.html
 
 Frontend link: http://20.108.163.98/final_project_webtech/index.html
 
-Admin page link: http://20.108.163.98/final_project_webtech/adminpage.html
+
 
 GitHub Repository link: https://github.com/natsina/final_project_webtech
    
